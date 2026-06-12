@@ -28,6 +28,11 @@ An interactive sales analysis dashboard built using Microsoft Excel, analyzing 3
 ## 🛠 Tools Used
 - Microsoft Excel
 
+##Dashboard preview
+<img width="1492" height="1022" alt="Screenshot 2026-05-30 223635" src="https://github.com/user-attachments/assets/e98804b8-39e1-4158-acd3-98c4d70b7aed" />
+
+
+  
 ## 👤 Author
 **Yaswanth Siva Reddy Kethu**
 
